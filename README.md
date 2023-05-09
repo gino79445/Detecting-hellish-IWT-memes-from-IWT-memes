@@ -7,7 +7,7 @@
 
 Social network platforms have witnessed the increasing importance of visual communication. Images and multimedia content play a crucial role in engaging users, and among these, IWT memes have emerged as a popular form of communication. However, the prevalence of harmful or offensive content in these memes can have a negative impact on society. In this paper, we propose a novel multimodal approach for identifying hellish IWT memes. Our approach leverages features extracted from IWT memes, including visual, text, and facial features, to accurately identify these harmful memes. 
 
-## EXAMPLE: Hellish IWT Meme and Normal IWT Meme
+## Example: Hellish IWT Meme and Normal IWT Meme
 <div align=center>
 <img src="https://github.com/gino79445/Detecting-hellish-IWT-memes-from-IWT-memes/blob/main/1.jpg?raw=true" style="width:150px" />
  &emsp;&emsp;
