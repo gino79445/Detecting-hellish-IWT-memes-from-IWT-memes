@@ -27,7 +27,7 @@ The recall has the better improvement by adding facial feature.
 
 <div align=center>
   
-||Accuracy|Precision|Recall|F1-score|
+|features|Accuracy|Precision|Recall|F1-score|
 |---:|:---:|---:|---:|---:|
 |Vision|0.722|0.688|0.697|0.690|
 |Vision + Text|0.731|0.697|0.711|0.703|
